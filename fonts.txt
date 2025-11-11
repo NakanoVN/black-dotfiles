@@ -1,0 +1,6 @@
+#Fonts
+-- copy the fonts inside ~/black-dotfiles/rofi/fonts/ to ~/.local/share/fonts/ 
+
+-- and copy the fonts inside ~/black-dotfiles/polybar/fonts to ~/.local/share/fonts/
+
+-- then type fc-cache -fv
